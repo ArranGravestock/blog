@@ -1,5 +1,5 @@
 # [arrangravestock.co.uk](http://arrangravestock.co.uk)
-Blog using modified version of Pixyll, replacing the old version which does not support markdown posts
+Blog using modified version of [Pixyll](https://github.com/johnotander/pixyll), replacing the old version which does not support markdown posts
 
 ## Geting started
 Cd to your directory and clone to your path using:
