@@ -29,3 +29,6 @@ Markdown cheatsheet can be found [here](https://github.com/adam-p/markdown-here/
 It is recommended that you modify the original [pixyll](https://github.com/johnotander/pixyll) rather than cloning my modified version.
 
 The `_config.yml` can also be updated to reflect your website, follow the instructions in the [pixyll](https://github.com/johnotander/pixyll) readme
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md files for details
