@@ -5,7 +5,6 @@ date:       2018-02-03
 summary:    A list of useful links that I've compiled over time
 categories: links list developer
 ---
-
 Every developer has a list of bookmarks links that they have for reference - so here's a list of mine that I use when I'm developing my front end projects.
 
 * [Freecodecamp](https://medium.freecodecamp.org/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf) - useful for knowing what to start to look at in your area of expertise
