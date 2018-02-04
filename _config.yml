@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://arrangravestock.co.uk"
 date_format: "%b %-d, %Y"
 header_pages:
-
+- contact.md
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
