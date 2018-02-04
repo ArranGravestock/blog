@@ -7,7 +7,6 @@ baseurl:     ""
 url:         "http://arrangravestock.co.uk"
 date_format: "%b %-d, %Y"
 header_pages:
- - contact.html
 
 # Google services
 google_verification:
