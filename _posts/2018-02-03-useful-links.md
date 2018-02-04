@@ -28,6 +28,5 @@ Every developer has a list of bookmarks links that they have for reference - so 
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) - if you haven't used Lighthouse, it's definitely one of the best extensions out there for front end developer quality assurance
 * [Better tool tips](https://thoughts.quantidesign.io/design-better-onboarding-tooltips-79c77f1ab223) - some good ux design tips on tool tips that you should follow
 * [Regex](https://qntm.org/files/re/re.html) - because are you seriously going to remember REGEX?
-* 
 * [Color picked](https://imagecolorpicker.com/) - sometimes you see the perfect colour, and you *need* to know that hex
 * [All the websites I didn't list](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - A good list of websites to read that when you want to explore
