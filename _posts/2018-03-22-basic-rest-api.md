@@ -26,10 +26,10 @@ To run the application, cd to the location and use:
 $ npm start
 ```
 CRUD:
-Creation - post
-Read - get
-Update - put
-Delete - delete
+1. Creation - post
+2. Read - get
+3. Update - put
+4. Delete - delete
 
 However, http protocols do not directly translate, as post may be used to also read - post can be used for creation and reading but data or a data set does not need to be returned. For example, validating a user login does not need to return any data other than that the login attempt is either successful or if it has failed.
 Basic express application can be made in the ```routes``` folder, by doing the follows:
