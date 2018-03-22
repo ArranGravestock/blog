@@ -40,12 +40,13 @@ router.get('/get', function (req, res) {
 })
 ```
 
-Query can be defined as follows:
+Queries can be defined as follows:
 ```javascript
 app.get('/login?username=testuser&password=testpass', function (req, res) {
   res.send(`a request for the user: ${req.query.username} and password: ${req.query.password} has been made`)
 })
 ```
+This allows you to pass a query in the uri as such ```localhost:8080//login?username=<USER>&pass=<PASS>```
 
 Parameters can be defined as follows:
 ```javascript
@@ -53,6 +54,7 @@ app.get('/book/:bookid', function (req, res) {
   res.send(`a request for book ${req.params.bookid} has been made`)
 })
 ```
+Any value passed after ```book/``` will be passed to req.params.bookid, for example ```localhost:8080//book/29```, req.params.bookid will be equivalent to 29
 
 Further documentation can be found at:
 [ExpressJS](https://expressjs.com/)
