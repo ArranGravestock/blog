@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Analysing Pacman's Path Finding
-date:       2018-06-18
+date:       2018-05-18
 summary:    How Pacman ghosts capture Pacman
 categories: Pacman AI path finding a* ghosts blinky clyde pinky inky 
 ---
