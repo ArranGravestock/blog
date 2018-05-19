@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      JavaScript Canvas A* Path Finding 
-date:       2018-06-19
+date:       2018-05-19
 summary:    AI techniques in Games using JavaScript
 categories: ai javascript canvas a* prim algorithm maze generation 
 ---
