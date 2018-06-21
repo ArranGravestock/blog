@@ -39,9 +39,9 @@ xhr.send();
 ```
 
 ## Limitations
-⋅⋅* Accessing the server's resources will most likely use a priority queue - anyone accessing the same resource as the time of testing will slow down the response,
-⋅⋅* Console.time may start before the request is actually sent, as the browser may hold on the request before sending,
-⋅⋅* Low amount of testing cases, limited to 25 results for each test.
+* Accessing the server's resources will most likely use a priority queue - anyone accessing the same resource as the time of testing will slow down the response,
+* Console.time may start before the request is actually sent, as the browser may hold on the request before sending,
+* Low amount of testing cases, limited to 25 results for each test.
 
 ## Takeaways
 Comparing the results to the resource testing on jsperf, my testing through browser in Chrome follows suit with their results. Whatwg-fetch is slightly faster on average which can be detrimental to huge data resource requests - however the main performance restriction will be on the server (how data is retrieved from a database or cloud, and if it is efficient). The difference between each case is almost neglegible - there are other factors that contribute to which one to use (current codebase, preference, simplicity etc...). 
