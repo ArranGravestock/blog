@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://arrangravestock.co.uk/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://arrangravestock.co.uk/contact/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arrangravestock.co.uk/whatwg/fetch/xhr/jquery/getjson/get/api/call/request/receieve/send/2018/06/18/api-performance/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arrangravestock.co.uk/ai/javascript/canvas/a*/prim/algorithm/maze/generation/2018/05/19/path-finding/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arrangravestock.co.uk/pacman/ai/path/finding/a*/ghosts/blinky/clyde/pinky/inky/2018/05/18/pacman-ai-analysis/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://arrangravestock.co.uk/node/js/express/api/rest/restful/crud/http/2018/03/22/basic-rest-api/</loc>
+  <lastmod>2018-06-21T16:20:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
