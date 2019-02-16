@@ -6,8 +6,6 @@ summary:    Creating real world interactions when deploying to master
 categories: pi raspberry raspberry-pi deployment codeship fun funployment node python 
 ---
 
-# Interfacing With The Real World On Deploying
-
 ## Why tho'?
 
 When I started at ProdPad, my colleague had an idea about using a raspberry pi to interact with the real world so we could know when a deployment was successful. I thought to myself 'that's a cool idea, and it's super easy...'. But I only just started my new position and I was overwhelmed, so after 3-4 months, when the dust settled I decided that I had nothing better to do one weekend and threw something together in a few hours.
