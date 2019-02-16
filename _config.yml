@@ -4,7 +4,7 @@ email:
 author:      Arran Gravestock
 description: "Web developer blogs about blogging blogs"
 baseurl:     ""
-url:         "http://arrangravestock.co.uk/blog/"
+url:         "https://arrangravestock.co.uk/blog/"
 date_format: "%b %-d, %Y"
 header_pages:
 - contact.html
