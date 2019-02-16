@@ -47,7 +47,7 @@ Again, we make another call. This time our build 'Y' has changed in this new cal
 ## Ok, but we have another problem?
 We can recognise that we have some new builds, and we could use the function that handles this logic to fire up to every real world interface. But that's a bit shit really - we'd have to modify this code _every_ time we wanted to make a new one. No one wants to do that - and it violates the open/closed principle. Yeah, that's right, I'm introducing standards into this project now. 'But Arran... how do we do this?'. Fuck if I knew, I've never done this before. So I Googled a few things like the best developers do and found a sweet ass solution. **EventEmitters**, hell yeah! That does exactly what I want and it's sooo easy. They're easy? What? Yeah they fucking are. You know how easy? 4 lines, and that's me being generous.
 
-```node
+``` javascript
 import {EventEmitter} from 'events';
 
 class EventStream extends EventEmitter {};
@@ -65,7 +65,7 @@ Is that _really_ it?
 
 Got ya. Although it's only really a two lines more. You didn't think it was that easy did you?
 
-```node
+```javascript
 Import EventStream from '../myawesomeclass.mjs';
 
 EventStream.on('mr_event_name', (data) => {
@@ -79,7 +79,7 @@ EventStream.on('mr_event_name', (data) => {
 
 There's probably better ways; but this seems like a great solution. So now we have a way to listen to the events. We just need to create them. Again easy, you could probably even get your mother to do it write this for you even though she can't turn on the printer. _I don't do tech support ma'!_. Where am I? Oh yeah, just do this.
 
-```node
+```javascript
 Import EventStream from '../myawesomeclass.mjs';
 
 EventStream.emit('mr_event_name', true)
