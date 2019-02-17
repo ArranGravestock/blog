@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Say Hello
-permalink: /contact/
+permalink: /blog/contact/
 tags: contact
 ---
 
@@ -34,7 +34,7 @@ tags: contact
         <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}" style="resize: vertical"></textarea>
       </label>
 
-      <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
+      <input type="hidden" name="_next" value="{{ '/' | relative_url }}/thanks/" />
       <input type="hidden" name="_subject" value="{{ site.text.contact.subject }}" />
       <input type="text" name="_gotcha" style="display:none" />
 
