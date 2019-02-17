@@ -6,7 +6,7 @@ description: "Web developer blogs about blogging blogs"
 baseurl:     "/blog"
 url:         "https://arrangravestock.co.uk"
 date_format: "%b %-d, %Y"
-header_pages:
+header_pages: false
 
 # Google services
 google_verification: VZyIDIYsR-UU3Vhh-3V1VGYuG3eb3XRDvuBCpagRRxE
