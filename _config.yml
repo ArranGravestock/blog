@@ -2,11 +2,12 @@
 title:       Arran Gravestock | Blog
 email:       
 author:      Arran Gravestock
-description: "Web developer blogs about blogging blogs"
+description: "Web developer blog"
 baseurl:     "/blog"
 url:         "https://arrangravestock.co.uk"
 date_format: "%b %-d, %Y"
-header_pages: false
+header_pages: 
+-
 
 # Google services
 google_verification: VZyIDIYsR-UU3Vhh-3V1VGYuG3eb3XRDvuBCpagRRxE
@@ -70,7 +71,7 @@ vk_id:
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: true
+share_twitter: false
 share_googleplus: false
 share_linkedin: false
 share_digg: false
