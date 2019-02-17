@@ -1,4 +1,4 @@
-# [arrangravestock.co.uk](http://arrangravestock.co.uk)
+## [arrangravestock.co.uk/blog](https://arrangravestock.co.uk/blog)
 Blog using modified version of [Pixyll](https://github.com/johnotander/pixyll)
 
 To add a post create a new .md file with name of `yyyy-mm-dd-post-name`, and using a markdown create a header as follows at the first line:
